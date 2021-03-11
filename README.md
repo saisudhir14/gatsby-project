@@ -1,3 +1,15 @@
+Install Gatsby-cli first in your local computer
+- npm install -g gatsby-cli
+
+Go to https://gatsbyjs.com/starters and search for hello world template.(https://www.gatsbyjs.com/starters/gatsbyjs/gatsby-starter-hello-world/)
+- Scroll down and copy the command in your working directory
+gatsby new my-gatsby-project https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+---
+
+Inorder to run your current project type "gastby develop" in the terminal.
+
+---
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
